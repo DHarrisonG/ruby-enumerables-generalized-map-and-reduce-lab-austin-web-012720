@@ -14,4 +14,9 @@ def reduce(arr, start = nil)
     i = 0
   else
     snum = array[0]
+    i = 1
+  end
+  while i < array.length
+  
+  end
 end
