@@ -13,8 +13,11 @@ def reduce(arr, start = nil)
    snum = start
    i = 0
    while i < arr.length do 
-     
+     yield(snum)
+     i += 1
+     snum += 1
    end
  end
+ 
 end
 
