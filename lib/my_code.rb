@@ -1,5 +1,3 @@
-array = [1,2,3]
-
 def map(arr)
   new= []
   i = 0
