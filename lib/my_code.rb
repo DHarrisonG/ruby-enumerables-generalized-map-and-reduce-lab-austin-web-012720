@@ -18,6 +18,6 @@ def reduce(arr, start = nil)
      snum += 1
    end
  end
- 
+ while i < arr.lengtg
 end
 
