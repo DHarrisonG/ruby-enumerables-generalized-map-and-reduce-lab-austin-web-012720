@@ -9,15 +9,6 @@ def map(arr)
 end
 
 def reduce(arr, start = nil)
- if start
-   snum = start
-   i = 0
-   while i < arr.length do 
-     yield(snum)
-     i += 1
-     snum += 1
-   end
- end
- while i < arr.lengtg
+  if start
+    snum = start
 end
-
