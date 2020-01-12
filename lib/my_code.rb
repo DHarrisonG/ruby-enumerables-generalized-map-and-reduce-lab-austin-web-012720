@@ -9,12 +9,8 @@ def map(arr)
 end
 
 def reduce(arr, start = nil)
-  new = []
-  i = 0
-  while i < arr.length do
-    new << yield(arr[i])
-    i += 1
-  end
-  new
+ if start
+   
+ end
 end
 
