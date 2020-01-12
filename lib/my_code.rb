@@ -10,7 +10,11 @@ end
 
 def reduce(arr, start = nil)
  if start
-   
+   snum = start
+   i = 0
+   while i < arr.length do 
+     
+   end
  end
 end
 
